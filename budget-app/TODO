@@ -1,7 +1,17 @@
-Budget-App:
-  ☐ Add event hanlder
-  ☐ Get input value
-  ☐ Add new item to our data structure
-  ☐ Add new item to UI
-  ☐ Calculate Budget 
-  ☐ Update UI
+UI-MODULE:
+  ✔ Get input value @done(19-04-25 03:34)
+  ✔ Add new item to UI @done(19-04-25 03:34)
+  ✔ Update UI @done(19-04-25 03:34)
+
+DATA-MODULE:
+  ✔ Calculate Budget @done(19-04-25 03:34)
+  ✔ Add new item to our data structure @done(19-04-25 03:34)
+
+CONTROLLER-MODULE:
+  ✔ Add event hanlder @done(19-04-25 03:34)
+
+OVERALL:
+  ☐ Correct the percentage function
+  ☐ Correct the data structure pattern
+  
+
